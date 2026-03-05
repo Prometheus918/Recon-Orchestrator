@@ -134,11 +134,11 @@ Do not run scans against systems without permission.
 
 # License
 
-MIT License
+https://github.com/Prometheus918/Recon-Orchestrator/blob/main/LICENSE
 
 ---
 
 # Author
 
-Your Name
+Rohit Date
 GitHub: https://github.com/Prometheus918
